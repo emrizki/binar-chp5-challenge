@@ -7,4 +7,4 @@
 
 Demo Challenge:
 
-[!demo](https://media.giphy.com/media/rMmrQGijqP1Gq25Wmo/giphy.gif?cid=790b76118ae0903178dbfd6f403e710bb29953b5066690c0&rid=giphy.gif&ct=g)
+![demo](https://media.giphy.com/media/rMmrQGijqP1Gq25Wmo/giphy.gif?cid=790b76118ae0903178dbfd6f403e710bb29953b5066690c0&rid=giphy.gif&ct=g)
